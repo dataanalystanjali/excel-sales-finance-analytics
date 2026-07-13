@@ -33,4 +33,3 @@ This project analyzes sales and financial performance using Microsoft Excel. The
 ## Project Outcome
 Developed interactive analytical reports that help monitor sales performance, profitability, and customer trends for business decision-making.
 
-> Guided project completed as part of the Codebasics Data Analytics Bootcamp.
