@@ -52,8 +52,8 @@ Applied conditional formatting to highlight key trends, variances, and important
 ---
 
 📊 Key Business Insights
-
-###1. Net Sales Growth
+---
+## 1. Net Sales Growth
 ---   
 Overall net sales increased from ₹87.48M (2019) to ₹196.69M (2020) and reached ₹598.88M (2021).
 The company achieved an impressive 204.48% growth in 2021 compared to 2020.
