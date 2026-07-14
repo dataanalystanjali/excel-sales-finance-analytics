@@ -5,6 +5,36 @@ Sales &amp; Finance Analytics Dashboard using Microsoft Excel
 ## Project Overview
 This project analyzes sales and financial performance using Microsoft Excel. The objective is to generate meaningful business insights through data analysis and interactive reports.
 
+About Company :
+AtliQ Hardware is a multinational company that sells products such as printers, mice, PCs, etc., to two customer types: e-commerce platforms (e.g., Amazon, Flipkart) and brick-and-mortar stores (e.g., Croma, Best Buy). The company uses three sales channels:
+
+Retailer: Croma, Amazon
+Distributor: Neptune
+Direct Channel: AtliQ e Store, AtliQ Exclusive
+
+Project Objective :
+
+The primary goal of this project is to analyze AtliQ Hardware's sales and financial performance from 2019 to 2021. This analysis will support the company in making informed decisions for growth, identifying sales trends, and evaluating market performance. The fiscal year for AtliQ Hardware runs from September to August.
+
+Techniques used :-
+
+ETL Process with Power Query :
+Extracted data from multiple sources, cleaned inconsistent values, fixed headers, and transformed negative quantities into absolute values.
+Date Table Creation :
+Built a dedicated Date Table in Power Query to ensure unique dates for accurate time-based analysis.
+Fiscal Calendar Setup :
+Derived fiscal months and quarters in Power Pivot to align reporting with AtliQ Hardware’s fiscal year.
+Data Modeling :
+Created relationships between fact and dimension tables using Power Pivot for structured and reliable data analysis.
+Supplementary Data Integration :
+Added additional datasets into the model through Power Pivot to enhance overall insights.
+DAX Calculations :
+Used DAX to build dynamic calculated columns and measures for deeper analytical flexibility.
+Pivot Table Reporting :
+Designed Pivot Tables to summarize sales and financial performance effectively.
+Conditional Formatting :
+Applied conditional formatting to highlight key trends, variances, and important metrics
+
 📊 Key Business Insights
 1. Net Sales Growth
    
