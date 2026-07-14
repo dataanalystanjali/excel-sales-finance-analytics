@@ -68,7 +68,7 @@ Most customers experienced significant year-over-year sales growth, with several
 ---
 
 ##2. Division Performance
-
+---  
 Division	Growth (2021 vs 2020)
 PC	313.70%
 P & A	221.53%
@@ -84,7 +84,7 @@ N & S showed positive but comparatively slower growth.
 ---
 
 ##3. Customer Performance
-
+---  
 Customers such as Amazon, AtliQ Exclusive, Flipkart, Reliance Digital, Croma, and Vijay Sales generated substantial revenue growth.
 India became one of the strongest performing markets with ₹161.26M in net sales during 2021.
 
@@ -115,7 +115,7 @@ This indicates that sales were growing faster than profitability, suggesting inc
 
 
 ##5. Quarterly Profit & Loss
-
+---  
 Net sales consistently increased across all quarters from 2019 to 2021.
 Gross margin value increased significantly because of higher sales.
 However, Gross Margin % remained relatively stable within each year but declined overall across years.
@@ -134,7 +134,7 @@ However, Gross Margin % remained relatively stable within each year but declined
 
 ---
 ##6.Profit and Loss by Fiscal Year
-
+---  
 Net Sales increased significantly from ₹87.48M (2019) to ₹196.69M (2020) and reached ₹598.88M (2021), representing an impressive 204% year-over-year growth in 2021.
 Cost of Goods Sold (COGS) also grew substantially, rising from ₹51.24M in 2019 to ₹380.71M in 2021, reflecting increased production and sales volume.
 Gross Margin (Value) improved from ₹36.24M in 2019 to ₹218.16M in 2021, indicating strong growth in absolute profit despite higher operating costs.
@@ -149,7 +149,7 @@ While the company experienced exceptional revenue growth, the declining GM% sugg
 
 
 ##7. Country Performance vs Target
-
+---  
 Most countries failed to achieve their 2021 sales targets.
 Overall company performance finished approximately 9.17% below target.
 Countries with the highest shortfall require additional sales and marketing focus.
@@ -159,7 +159,7 @@ Countries with the highest shortfall require additional sales and marketing focu
 ---
 
 ##8. Product Analysis
-
+---  
 Best Performing Products
 AQ Master Wireless X1 MS
 AQ Master Wired X1 MS
@@ -179,6 +179,7 @@ These products showed very low demand and may require product redesign, marketin
 
 ---
 ##🎯 Business Recommendations
+---  
 
 Continue investing in the PC and P & A divisions, which are driving business growth.
 
@@ -195,7 +196,7 @@ Monitor Gross Margin quarterly to ensure rapid sales growth translates into sust
 ---
 
 ##📌 Project Conclusion
-
+---  
 This Excel project demonstrates how advanced Excel features—including Power Query, Power Pivot, DAX Measures, Pivot Tables, Conditional Formatting, Interactive Filters, and Dashboard Design—can transform raw transactional data into actionable business insights.
 
 The analysis revealed that AtliQ Hardware achieved exceptional revenue growth between 2019 and 2021, with net sales increasing by over 204% in 2021. However, despite this strong top-line performance, the Gross Margin % steadily declined, highlighting the importance of balancing growth with profitability. The dashboards also identified high-performing divisions, customers, products, and regions while uncovering markets that fell short of sales targets.
@@ -205,6 +206,7 @@ Overall, this project showcases my ability to perform end-to-end business analys
 
 
 ## Tools Used
+---  
 - Microsoft Excel
 - Pivot Tables
 - Power Pivot
@@ -215,6 +217,7 @@ Overall, this project showcases my ability to perform end-to-end business analys
 ---
 
 ## Key Features
+---  
 - Sales Performance Analysis
 - Net Sales Analysis
 - Profit & Loss Report
@@ -225,6 +228,7 @@ Overall, this project showcases my ability to perform end-to-end business analys
 
 
 ## Skills Demonstrated
+---  
 - Data Cleaning
 - Data Modeling
 - Pivot Tables
@@ -234,5 +238,6 @@ Overall, this project showcases my ability to perform end-to-end business analys
 - Dashboard Design
 ---
 ## Project Outcome
+---  
 Developed interactive analytical reports that help monitor sales performance, profitability, and customer trends for business decision-making.
 
