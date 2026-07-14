@@ -132,14 +132,21 @@ These products showed very low demand and may require product redesign, marketin
 
 ---
 🎯 Business Recommendations
+
 Continue investing in the PC and P & A divisions, which are driving business growth.
+
 Improve profitability by reducing costs and optimizing pricing strategies to increase Gross Margin %.
+
 Investigate why multiple countries failed to meet sales targets and develop region-specific sales strategies.
+
 Strengthen relationships with high-performing customers while creating engagement plans for underperforming ones.
+
 Increase inventory and marketing support for best-selling products and reassess low-performing product lines.
+
 Monitor Gross Margin quarterly to ensure rapid sales growth translates into sustainable profitability.
 
 📌 Project Conclusion
+
 This Excel project demonstrates how advanced Excel features—including Power Query, Power Pivot, DAX Measures, Pivot Tables, Conditional Formatting, Interactive Filters, and Dashboard Design—can transform raw transactional data into actionable business insights.
 
 The analysis revealed that AtliQ Hardware achieved exceptional revenue growth between 2019 and 2021, with net sales increasing by over 204% in 2021. However, despite this strong top-line performance, the Gross Margin % steadily declined, highlighting the importance of balancing growth with profitability. The dashboards also identified high-performing divisions, customers, products, and regions while uncovering markets that fell short of sales targets.
