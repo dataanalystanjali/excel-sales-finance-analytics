@@ -202,6 +202,7 @@ This Excel project demonstrates how advanced Excel features—including Power Qu
 The analysis revealed that AtliQ Hardware achieved exceptional revenue growth between 2019 and 2021, with net sales increasing by over 204% in 2021. However, despite this strong top-line performance, the Gross Margin % steadily declined, highlighting the importance of balancing growth with profitability. The dashboards also identified high-performing divisions, customers, products, and regions while uncovering markets that fell short of sales targets.
 
 Overall, this project showcases my ability to perform end-to-end business analysis in Excel, build interactive dashboards, interpret KPIs, and convert data into meaningful recommendations that support strategic business decision-making.
+
 ---
 
 
