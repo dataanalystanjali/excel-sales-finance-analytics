@@ -77,19 +77,13 @@ However, Gross Margin % remained relatively stable within each year but declined
 
 ![GM 2019](screenshots/gm%25_2019_quaterly.png)
 
----
-
 ### Gross Margin % (2020)
 
 ![GM 2020](screenshots/gm%25_2020_quaterly.png)
 
----
-
 ### Gross Margin % (2021)
 
 ![GM 2021](screenshots/gm%25_2021_quaterly.png)
-
----
 
 ---
 6.Profit and Loss by Fiscal Year
