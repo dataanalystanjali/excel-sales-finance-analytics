@@ -60,21 +60,9 @@ Insight
 
 Although revenue increased dramatically, the Gross Margin % declined every year.
 This indicates that sales were growing faster than profitability, suggesting increased production costs, pricing pressure, or higher discounts.
-### Gross Margin % (2019)
 
-![GM 2019](screenshots/gm%25_2019_quaterly.png)
 
----
-
-### Gross Margin % (2020)
-
-![GM 2020](screenshots/gm%25_2020_quaterly.png)
-
----
-
-### Gross Margin % (2021)
-
-![GM 2021](screenshots/gm%25_2021_quaterly.png)
+![P&L Quarter](screenshots/Profit%20%26%20Loss%20by%20quarters%20and%20months.png)
 
 ---
 
@@ -86,7 +74,6 @@ Gross margin value increased significantly because of higher sales.
 However, Gross Margin % remained relatively stable within each year but declined overall across years.
 ### Profit & Loss by Quarter
 
-![P&L Quarter](screenshots/Profit%20%26%20Loss%20by%20quarters%20and%20months.png)
 
 ---
 6.Profit and Loss by Fiscal Year
