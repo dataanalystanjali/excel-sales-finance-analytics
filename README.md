@@ -72,8 +72,24 @@ This indicates that sales were growing faster than profitability, suggesting inc
 Net sales consistently increased across all quarters from 2019 to 2021.
 Gross margin value increased significantly because of higher sales.
 However, Gross Margin % remained relatively stable within each year but declined overall across years.
-### Profit & Loss by Quarter
 
+### Gross Margin % (2019)
+
+![GM 2019](screenshots/gm%25_2019_quaterly.png)
+
+---
+
+### Gross Margin % (2020)
+
+![GM 2020](screenshots/gm%25_2020_quaterly.png)
+
+---
+
+### Gross Margin % (2021)
+
+![GM 2021](screenshots/gm%25_2021_quaterly.png)
+
+---
 
 ---
 6.Profit and Loss by Fiscal Year
