@@ -239,6 +239,6 @@ Overall, this project showcases my ability to perform end-to-end business analys
 - Dashboard Design
 ---
 ## Project Outcome
----  
+
 Developed interactive analytical reports that help monitor sales performance, profitability, and customer trends for business decision-making.
 
