@@ -84,9 +84,12 @@ Gross Margin (Value) improved from ₹36.24M in 2019 to ₹218.16M in 2021, indi
 Gross Margin Percentage (GM%) declined from 41.43% (2019) to 37.28% (2020) and further to 36.43% (2021), showing that profitability per unit of sales decreased even as revenue expanded.
 While the company experienced exceptional revenue growth, the declining GM% suggests increasing costs, pricing pressure, or higher discounts, highlighting an opportunity to improve operational efficiency and profit margins.
 
-![Profit & Loss by Fiscal Year](screenshots/profit_loss_yearly.png)
+### Profit & Loss by Fiscal Year
+
+![P&L Year](screenshots/Profit%20and%20Loss%20by%20Fiscal%20Year.png)
 
 ---
+
 
 7. Country Performance vs Target
 
