@@ -50,12 +50,14 @@ India became one of the strongest performing markets with ₹161.26M in net sale
 
 4. Gross Margin Analysis
 
-Gross Margin %
-Year	GM %
-2019	41.43%
-2020	37.28%
-2021	36.43%
+year 2019	- gross margin 41.43%
+
+year 2020- gross margin 37.28%
+
+year 2021-gross margin36.43%
+
 Insight
+
 Although revenue increased dramatically, the Gross Margin % declined every year.
 This indicates that sales were growing faster than profitability, suggesting increased production costs, pricing pressure, or higher discounts.
 ### Gross Margin % (2019)
