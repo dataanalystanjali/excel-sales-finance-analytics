@@ -1,22 +1,28 @@
 # excel-sales-finance-analytics
 Sales &amp; Finance Analytics Dashboard using Microsoft Excel
 # Sales & Finance Analytics using Microsoft Excel
-
+---
 ## Project Overview
 This project analyzes sales and financial performance using Microsoft Excel. The objective is to generate meaningful business insights through data analysis and interactive reports.
 
-About Company :
+---
+
+## About Company :
 AtliQ Hardware is a multinational company that sells products such as printers, mice, PCs, etc., to two customer types: e-commerce platforms (e.g., Amazon, Flipkart) and brick-and-mortar stores (e.g., Croma, Best Buy). The company uses three sales channels:
+---
 
 Retailer: Croma, Amazon
 Distributor: Neptune
 Direct Channel: AtliQ e Store, AtliQ Exclusive
+---
 
-Project Objective :
+##Project Objective :
 
 The primary goal of this project is to analyze AtliQ Hardware's sales and financial performance from 2019 to 2021. This analysis will support the company in making informed decisions for growth, identifying sales trends, and evaluating market performance. The fiscal year for AtliQ Hardware runs from September to August.
 
-Techniques used :-
+---
+
+##Techniques used :-
 
 ETL Process with Power Query :
 Extracted data from multiple sources, cleaned inconsistent values, fixed headers, and transformed negative quantities into absolute values.
@@ -35,7 +41,9 @@ Designed Pivot Tables to summarize sales and financial performance effectively.
 Conditional Formatting :
 Applied conditional formatting to highlight key trends, variances, and important metrics
 
-📊 Key Business Insights
+---
+
+##📊 Key Business Insights
 1. Net Sales Growth
    
 Overall net sales increased from ₹87.48M (2019) to ₹196.69M (2020) and reached ₹598.88M (2021).
@@ -161,7 +169,7 @@ These products showed very low demand and may require product redesign, marketin
 ![Top Bottom Products](screenshots/Top%20and%20Bottom%205%20Products%20by%20qty.png)
 
 ---
-🎯 Business Recommendations
+##🎯 Business Recommendations
 
 Continue investing in the PC and P & A divisions, which are driving business growth.
 
@@ -175,13 +183,16 @@ Increase inventory and marketing support for best-selling products and reassess 
 
 Monitor Gross Margin quarterly to ensure rapid sales growth translates into sustainable profitability.
 
-📌 Project Conclusion
+---
+
+##📌 Project Conclusion
 
 This Excel project demonstrates how advanced Excel features—including Power Query, Power Pivot, DAX Measures, Pivot Tables, Conditional Formatting, Interactive Filters, and Dashboard Design—can transform raw transactional data into actionable business insights.
 
 The analysis revealed that AtliQ Hardware achieved exceptional revenue growth between 2019 and 2021, with net sales increasing by over 204% in 2021. However, despite this strong top-line performance, the Gross Margin % steadily declined, highlighting the importance of balancing growth with profitability. The dashboards also identified high-performing divisions, customers, products, and regions while uncovering markets that fell short of sales targets.
 
 Overall, this project showcases my ability to perform end-to-end business analysis in Excel, build interactive dashboards, interpret KPIs, and convert data into meaningful recommendations that support strategic business decision-making.
+---
 
 
 ## Tools Used
@@ -192,6 +203,8 @@ Overall, this project showcases my ability to perform end-to-end business analys
 - DAX Measures
 - Charts & Visualizations
 
+---
+
 ## Key Features
 - Sales Performance Analysis
 - Net Sales Analysis
@@ -199,6 +212,8 @@ Overall, this project showcases my ability to perform end-to-end business analys
 - Customer Performance Analysis
 - Market-wise Analysis
 - KPI Reporting
+- ---
+
 
 ## Skills Demonstrated
 - Data Cleaning
@@ -208,7 +223,7 @@ Overall, this project showcases my ability to perform end-to-end business analys
 - DAX
 - Business Analysis
 - Dashboard Design
-
+---
 ## Project Outcome
 Developed interactive analytical reports that help monitor sales performance, profitability, and customer trends for business decision-making.
 
