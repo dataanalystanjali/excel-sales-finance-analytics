@@ -16,13 +16,13 @@ Distributor: Neptune
 Direct Channel: AtliQ e Store, AtliQ Exclusive
 ---
 
-##Project Objective :
+## Project Objective :
 
 The primary goal of this project is to analyze AtliQ Hardware's sales and financial performance from 2019 to 2021. This analysis will support the company in making informed decisions for growth, identifying sales trends, and evaluating market performance. The fiscal year for AtliQ Hardware runs from September to August.
 
 ---
 
-##Techniques used :-
+## Techniques used :-
 
 ETL Process with Power Query :
 Extracted data from multiple sources, cleaned inconsistent values, fixed headers, and transformed negative quantities into absolute values.
