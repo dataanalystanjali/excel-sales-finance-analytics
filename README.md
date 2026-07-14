@@ -5,15 +5,17 @@
 This project analyzes sales and financial performance using Microsoft Excel. The objective is to generate meaningful business insights through data analysis and interactive reports.
 
 ---
-**
+
 About Company :
 AtliQ Hardware is a multinational company that sells products such as printers, mice, PCs, etc., to two customer types: e-commerce platforms (e.g., Amazon, Flipkart) and brick-and-mortar stores (e.g., Croma, Best Buy). The company uses three sales channels:
+
 ---
 
 Retailer: Croma, Amazon
 Distributor: Neptune
 Direct Channel: AtliQ e Store, AtliQ Exclusive
----**
+
+---
 
 ## Project Objective :
 
