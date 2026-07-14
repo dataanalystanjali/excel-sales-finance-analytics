@@ -10,6 +10,8 @@ This project analyzes sales and financial performance using Microsoft Excel. The
 Overall net sales increased from ₹87.48M (2019) to ₹196.69M (2020) and reached ₹598.88M (2021).
 The company achieved an impressive 204.48% growth in 2021 compared to 2020.
 Most customers experienced significant year-over-year sales growth, with several customers recording more than 300% growth.
+![Customer Performance](screenshots/Customer_Performance_part1.png)
+![Customer Performance](screenshots/Customer_Performance_part2.png)
 
 2. Division Performance
 Division	Growth (2021 vs 2020)
@@ -20,12 +22,13 @@ Insight
 PC Division was the fastest-growing business segment.
 P & A remained the largest revenue contributor.
 N & S showed positive but comparatively slower growth.
+![Division Performance](screenshots/Division_sales_report.png)
 
-3. Customer Performance
+4. Customer Performance
 Customers such as Amazon, AtliQ Exclusive, Flipkart, Reliance Digital, Croma, and Vijay Sales generated substantial revenue growth.
 India became one of the strongest performing markets with ₹161.26M in net sales during 2021.
 
-4. Gross Margin Analysis
+5. Gross Margin Analysis
 Gross Margin %
 Year	GM %
 2019	41.43%
@@ -35,17 +38,17 @@ Insight
 Although revenue increased dramatically, the Gross Margin % declined every year.
 This indicates that sales were growing faster than profitability, suggesting increased production costs, pricing pressure, or higher discounts.
 
-5. Quarterly Profit & Loss
+6. Quarterly Profit & Loss
 Net sales consistently increased across all quarters from 2019 to 2021.
 Gross margin value increased significantly because of higher sales.
 However, Gross Margin % remained relatively stable within each year but declined overall across years.
 
-6. Country Performance vs Target
+7. Country Performance vs Target
 Most countries failed to achieve their 2021 sales targets.
 Overall company performance finished approximately 9.17% below target.
 Countries with the highest shortfall require additional sales and marketing focus.
 
-7. Product Analysis
+8. Product Analysis
 Best Performing Products
 AQ Master Wireless X1 MS
 AQ Master Wired X1 MS
