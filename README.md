@@ -7,7 +7,7 @@ This project analyzes sales and financial performance using Microsoft Excel. The
 
 ---
 
-## About Company :
+# About Company :
 AtliQ Hardware is a multinational company that sells products such as printers, mice, PCs, etc., to two customer types: e-commerce platforms (e.g., Amazon, Flipkart) and brick-and-mortar stores (e.g., Croma, Best Buy). The company uses three sales channels:
 ---
 
@@ -43,7 +43,7 @@ Applied conditional formatting to highlight key trends, variances, and important
 
 ---
 
-##📊 Key Business Insights
+📊 Key Business Insights
 1. Net Sales Growth
    
 Overall net sales increased from ₹87.48M (2019) to ₹196.69M (2020) and reached ₹598.88M (2021).
