@@ -1,5 +1,4 @@
-# excel-sales-finance-analytics
-Sales &amp; Finance Analytics Dashboard using Microsoft Excel
+
 # Sales & Finance Analytics using Microsoft Excel
 ---
 ## Project Overview
