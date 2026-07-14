@@ -10,7 +10,12 @@ This project analyzes sales and financial performance using Microsoft Excel. The
 Overall net sales increased from ₹87.48M (2019) to ₹196.69M (2020) and reached ₹598.88M (2021).
 The company achieved an impressive 204.48% growth in 2021 compared to 2020.
 Most customers experienced significant year-over-year sales growth, with several customers recording more than 300% growth.
+
+### Customer Net Sales Performance (Part 1)
 ![Customer Performance Part 1](screenshots/customer_performance_part1.png)
+### Customer Net Sales Performance (Part 2)
+![Customer Performance Part 2](screenshots/customer_performance_part2.png).
+
 
 ---
 
@@ -23,13 +28,24 @@ Insight
 PC Division was the fastest-growing business segment.
 P & A remained the largest revenue contributor.
 N & S showed positive but comparatively slower growth.
-![Division Performance](screenshots/Division_sales_report.png)
+### Division Sales Report
 
-4. Customer Performance
+![Division Sales](screenshots/division%20sales%20report.png)
+
+---
+
+3. Customer Performance
 Customers such as Amazon, AtliQ Exclusive, Flipkart, Reliance Digital, Croma, and Vijay Sales generated substantial revenue growth.
 India became one of the strongest performing markets with ₹161.26M in net sales during 2021.
 
-5. Gross Margin Analysis
+
+### India Market Performance
+
+![India Sales](screenshots/India%20net%20sales%20report.png)
+
+---
+
+4. Gross Margin Analysis
 Gross Margin %
 Year	GM %
 2019	41.43%
@@ -38,16 +54,48 @@ Year	GM %
 Insight
 Although revenue increased dramatically, the Gross Margin % declined every year.
 This indicates that sales were growing faster than profitability, suggesting increased production costs, pricing pressure, or higher discounts.
+### Gross Margin % (2019)
 
-6. Quarterly Profit & Loss
+![GM 2019](screenshots/gm%25_2019_quaterly.png)
+
+---
+
+### Gross Margin % (2020)
+
+![GM 2020](screenshots/gm%25_2020_quaterly.png)
+
+---
+
+### Gross Margin % (2021)
+
+![GM 2021](screenshots/gm%25_2021_quaterly.png)
+
+---
+
+
+5. Quarterly Profit & Loss
 Net sales consistently increased across all quarters from 2019 to 2021.
 Gross margin value increased significantly because of higher sales.
 However, Gross Margin % remained relatively stable within each year but declined overall across years.
+### Profit & Loss by Quarter
+
+![P&L Quarter](screenshots/Profit%20%26%20Loss%20by%20quarters%20and%20months.png)
+
+---
+6.Profit and Loss by Fiscal Year
+Net Sales increased significantly from ₹87.48M (2019) to ₹196.69M (2020) and reached ₹598.88M (2021), representing an impressive 204% year-over-year growth in 2021.
+Cost of Goods Sold (COGS) also grew substantially, rising from ₹51.24M in 2019 to ₹380.71M in 2021, reflecting increased production and sales volume.
+Gross Margin (Value) improved from ₹36.24M in 2019 to ₹218.16M in 2021, indicating strong growth in absolute profit despite higher operating costs.
+Gross Margin Percentage (GM%) declined from 41.43% (2019) to 37.28% (2020) and further to 36.43% (2021), showing that profitability per unit of sales decreased even as revenue expanded.
+While the company experienced exceptional revenue growth, the declining GM% suggests increasing costs, pricing pressure, or higher discounts, highlighting an opportunity to improve operational efficiency and profit margins.
+![Profit & Loss by Fiscal Year](screenshots/profit_loss_yearly.png)
 
 7. Country Performance vs Target
 Most countries failed to achieve their 2021 sales targets.
 Overall company performance finished approximately 9.17% below target.
 Countries with the highest shortfall require additional sales and marketing focus.
+
+![Country Performance vs Target](screenshots/Performance%20vs%20target.png)
 
 8. Product Analysis
 Best Performing Products
@@ -63,6 +111,9 @@ AQ Home Allin1
 AQ Smash 2
 
 These products showed very low demand and may require product redesign, marketing improvements, or discontinuation analysis.
+### Top & Bottom 5 Products
+
+![Top Bottom Products](screenshots/Top%20and%20Bottom%205%20Products%20by%20qty.png)
 
 🎯 Business Recommendations
 Continue investing in the PC and P & A divisions, which are driving business growth.
