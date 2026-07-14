@@ -6,12 +6,12 @@ This project analyzes sales and financial performance using Microsoft Excel. The
 
 ---
 
-About Company :
+## About Company :
 AtliQ Hardware is a multinational company that sells products such as printers, mice, PCs, etc., to two customer types: e-commerce platforms (e.g., Amazon, Flipkart) and brick-and-mortar stores (e.g., Croma, Best Buy). The company uses three sales channels:
 
 ---
 
-Retailer: Croma, Amazon
+## Retailer: Croma, Amazon
 Distributor: Neptune
 Direct Channel: AtliQ e Store, AtliQ Exclusive
 
@@ -52,7 +52,7 @@ Applied conditional formatting to highlight key trends, variances, and important
 ---
 
 📊 Key Business Insights
-1. Net Sales Growth
+##1. Net Sales Growth
    
 Overall net sales increased from ₹87.48M (2019) to ₹196.69M (2020) and reached ₹598.88M (2021).
 The company achieved an impressive 204.48% growth in 2021 compared to 2020.
@@ -66,7 +66,7 @@ Most customers experienced significant year-over-year sales growth, with several
 
 ---
 
-2. Division Performance
+##2. Division Performance
 
 Division	Growth (2021 vs 2020)
 PC	313.70%
@@ -82,7 +82,7 @@ N & S showed positive but comparatively slower growth.
 
 ---
 
-3. Customer Performance
+##3. Customer Performance
 
 Customers such as Amazon, AtliQ Exclusive, Flipkart, Reliance Digital, Croma, and Vijay Sales generated substantial revenue growth.
 India became one of the strongest performing markets with ₹161.26M in net sales during 2021.
@@ -94,7 +94,7 @@ India became one of the strongest performing markets with ₹161.26M in net sale
 
 ---
 
-4. Gross Margin Analysis
+##4. Gross Margin Analysis
 
 year 2019	- gross margin 41.43%
 
@@ -113,7 +113,7 @@ This indicates that sales were growing faster than profitability, suggesting inc
 ---
 
 
-5. Quarterly Profit & Loss
+##5. Quarterly Profit & Loss
 
 Net sales consistently increased across all quarters from 2019 to 2021.
 Gross margin value increased significantly because of higher sales.
@@ -132,7 +132,7 @@ However, Gross Margin % remained relatively stable within each year but declined
 ![GM 2021](screenshots/gm%25_2021_quaterly.png)
 
 ---
-6.Profit and Loss by Fiscal Year
+##6.Profit and Loss by Fiscal Year
 
 Net Sales increased significantly from ₹87.48M (2019) to ₹196.69M (2020) and reached ₹598.88M (2021), representing an impressive 204% year-over-year growth in 2021.
 Cost of Goods Sold (COGS) also grew substantially, rising from ₹51.24M in 2019 to ₹380.71M in 2021, reflecting increased production and sales volume.
@@ -147,7 +147,7 @@ While the company experienced exceptional revenue growth, the declining GM% sugg
 ---
 
 
-7. Country Performance vs Target
+##7. Country Performance vs Target
 
 Most countries failed to achieve their 2021 sales targets.
 Overall company performance finished approximately 9.17% below target.
@@ -157,7 +157,7 @@ Countries with the highest shortfall require additional sales and marketing focu
 
 ---
 
-8. Product Analysis
+##8. Product Analysis
 
 Best Performing Products
 AQ Master Wireless X1 MS
