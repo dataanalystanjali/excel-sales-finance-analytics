@@ -10,8 +10,9 @@ This project analyzes sales and financial performance using Microsoft Excel. The
 Overall net sales increased from ₹87.48M (2019) to ₹196.69M (2020) and reached ₹598.88M (2021).
 The company achieved an impressive 204.48% growth in 2021 compared to 2020.
 Most customers experienced significant year-over-year sales growth, with several customers recording more than 300% growth.
-![Customer Performance](screenshots/Customer_Performance_part1.png)
-![Customer Performance](screenshots/Customer_Performance_part2.png)
+![Customer Performance Part 1](screenshots/customer_performance_part1.png)
+
+---
 
 2. Division Performance
 Division	Growth (2021 vs 2020)
